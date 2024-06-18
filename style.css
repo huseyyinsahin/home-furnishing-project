@@ -12,6 +12,7 @@ body {
   max-width: 100%;
   min-height: 100vh;
   margin-top: 4rem;
+  margin-bottom: 4rem;
   border-radius: 20px;
   background-color: #eeecec;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
