@@ -255,7 +255,6 @@ nav {
   flex-direction: column;
 }
 .form input {
-  width: 100%;
   max-width: 300px;
   border: none;
   padding: 10px 30px;
